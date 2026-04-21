@@ -1,5 +1,4 @@
-# comissao-vendedor-csharp
-## 📸 Preview
+## 📸 Preview do sistema
 
 <img width="775" height="581" alt="screenshot" src="https://github.com/user-attachments/assets/d23019ae-4727-4cb9-a6c9-5ebbcc7a5a56" />
 
@@ -21,3 +20,8 @@ Aplicação desktop desenvolvida em C# (Windows Forms) para cálculo automático
 
 ## 🎯 Objetivo
 Projeto desenvolvido para praticar lógica de programação e interface gráfica.
+
+## ▶️ Como executar
+1. Abra o projeto no Visual Studio
+2. Compile e execute (F5)
+3. Preencha os campos e clique em "Calcular"
