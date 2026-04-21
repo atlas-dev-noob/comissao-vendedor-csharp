@@ -1,4 +1,7 @@
 # comissao-vendedor-csharp
+##📸 Preview
+
+![Preview do sistema](screenshot.png)
 
 # Sistema de Comissão de Vendedor (C#)
 
