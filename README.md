@@ -7,13 +7,13 @@
 
 # Sistema de Comissão de Vendedor (C#)
 
-Aplicação feita em Windows Forms para calcular comissão de vendas.
+Aplicação desktop desenvolvida em C# (Windows Forms) para cálculo automático de comissões de vendas, com interface simples e organizada.
 
 ## 📌 Funcionalidades
-- Cadastro de vendedor
-- Cálculo de total de vendas
-- Cálculo automático de comissão (5%)
-- Exibição organizada dos resultados
+- Entrada de dados do vendedor
+- Cálculo automático do total de vendas
+- Cálculo de comissão (5%)
+- Exibição formatada dos resultados
 
 ## 🛠️ Tecnologias
 - C#
